@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Admin\\source\\repos\\Pig Latin\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{2064AC12-96DC-4297-8D4A-F8424037164C}|Pig Latin\\Pig Latin.csproj|c:\\users\\admin\\source\\repos\\pig latin\\pig latin\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2064AC12-96DC-4297-8D4A-F8424037164C}|Pig Latin\\Pig Latin.csproj|solutionrelative:pig latin\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\source\\repos\\Pig Latin\\Pig Latin\\Program.cs",
+              "RelativeDocumentMoniker": "Pig Latin\\Program.cs",
+              "ToolTip": "C:\\Users\\Admin\\source\\repos\\Pig Latin\\Pig Latin\\Program.cs",
+              "RelativeToolTip": "Pig Latin\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAD8AAAAeAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-02T15:56:03.144Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
